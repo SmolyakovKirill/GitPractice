@@ -1,1 +1,2 @@
 New text line
+Second line in txt file
